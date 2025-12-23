@@ -20,23 +20,4 @@ Trabalho com foco em código limpo, segurança, performance e organização de p
 - Docker
 - Linux / Apache / Nginx
 
----
-
-## 📌 Projetos em destaque
-- 🔐 **JWT Authentication API**  
-  API REST com autenticação JWT, Docker e Swagger  
-  👉 https://github.com/SEU_USUARIO/laravel-jwt-auth-api
-
-- 👥 **RBAC API**  
-  Controle de papéis e permissões em Laravel  
-  👉 https://github.com/SEU_USUARIO/laravel-rbac-api
-
-- 📄 **PDF Report API**  
-  Geração de relatórios em PDF via API  
-  👉 https://github.com/SEU_USUARIO/laravel-pdf-report-api
-
----
-
-## 📫 Contato
-- LinkedIn: https://linkedin.com/in/SEU_LINKEDIN
-- Email: seuemail@email.com
+--
