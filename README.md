@@ -1,8 +1,9 @@
-👋 Hi, I’m João Sprenger
+# 👋 Hi, I’m João Sprenger
 
 - 💻 Backend Developer
 - 🚀 Focused on REST APIs, security, and best practices
 - 🐘 PHP | Laravel | Lumen | PostgreSQL | Docker
+
 ---
 
 ## 🧠 About me
@@ -11,7 +12,7 @@ I focus on clean code, security, performance, and well-structured projects.
 
 ---
 
-## 🔧 Tecnologias
+## 🔧 Technologies
 - PHP (Laravel / Lumen)
 - APIs REST
 - JWT Authentication
